@@ -10,7 +10,7 @@ import { UserRouter } from './routes/userRoutes.js';
 import { PetRouter } from './routes/petRoutes.js'
 
 const corsOptions = {
-    origin: ['http://localhost:5173', 'https://celadon-manatee-ed5195.netlify.app'],
+    origin: ['http://localhost:5173', 'https://grand-cupcake-e722d0.netlify.app'],
     methods: ['GET', 'POST', 'PUT', 'DELETE'],
     credentials: true,
 };
